@@ -1,0 +1,68 @@
+/* Full-page layout */
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: url('https://img.freepik.com/free-photo/top-view-different-seasonings-with-raw-pasta-dark-background-product-raw-food-salad-health_140725-116591.jpg?semt=ais_hybrid&w=740'); /* replace this */
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+  }  
+  
+
+  .container {
+    background: rgba(255, 255, 255, 0.5);
+    padding: 2rem;
+    border-radius: 10px;
+    max-width: 800px;
+    width: 90%;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  }
+  
+
+  h1, h2 {
+    margin-bottom: 1rem;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 1rem;
+  }
+
+  .recipe-title {
+    position: relative;
+    display: inline-block;
+    margin: 1rem 0;
+  }
+  
+  .recipe-title h2 {
+    position: relative;
+    z-index: 2;
+    margin: 0;
+    padding: 1rem;
+  }
+  
+  .hover-square {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.4);
+    border-radius: 8px;
+    z-index: 1;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .recipe-title:hover .hover-square {
+    opacity: 1;
+    cursor: pointer;
+  }
+  

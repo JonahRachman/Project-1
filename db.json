@@ -1,0 +1,40 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "title": "Carrot Cake",
+        "image": "https://sugarspunrun.com/wp-content/uploads/2022/02/The-Best-Carrot-Cake-Recipe-1-of-1-5.jpg",
+        "ingredients": "Flour, Sugar, Brown Sugar, Cinnamon, Nutmeg, Baking Powder, Baking Soda, Salt, Canola Oil, Butter, Eggs, Vanilla Extract, Grated Carrots, Walnuts or Pecans",
+        "directions": "Preheat oven to 350°F and prepare two 8-inch pans with parchment paper and greased sides. In a bowl, whisk flour, sugars, baking powder, baking soda, salt, cinnamon, and nutmeg. Add oil and melted butter, mixing until thick. Beat in eggs one at a time, then add vanilla. Stir in grated carrots and nuts. Divide batter between pans and bake for 40 minutes, until a toothpick comes out mostly clean. Cool for 10 minutes in the pan, then transfer to a rack. Cool completely before frosting."
+      },
+      {
+        "id": 2,
+        "title": "Baked Mac n Cheese",
+        "image": "https://www.momontimeout.com/wp-content/uploads/2018/10/homemade-mac-and-cheese-733x1027.jpg",
+        "ingredients": "Elbow Macaroni, Olive Oil, Butter, Flour, Milk, Heavy Cream, Sharp Cheddar Cheese, Gruyere Cheese, Salt, Pepper, Panko Bread Crumbs, Parmesan Cheese, Paprika",
+        "directions": "Preheat oven to 350°F and grease a large baking dish. Cook macaroni 1 minute less than al dente. Toss with olive oil and set aside. In a large pot, melt butter and whisk in flour. Gradually whisk in milk and cream until thick and bubbly. Stir in salt, pepper, and cheeses until smooth. Mix in pasta. Pour half into the dish, top with cheese, then remaining pasta. Mix panko, Parmesan, melted butter, and paprika; sprinkle on top. Bake 30 minutes until bubbly and golden."
+      },
+      {
+        "id": 3,
+        "title": "Linguini With Clams",
+        "image": "https://www.onceuponachef.com/images/2019/03/linguine-with-clams-760x669.jpg",
+        "ingredients": "Linguini, Minced Clams (with juice), Vegetable Oil, Butter, Parsley, Basil, Minced Garlic, Salt, Pepper",
+        "directions": "Cook linguini in salted water until al dente. Meanwhile, in a large saucepan, combine clams with juice, oil, butter, parsley, basil, garlic, salt, and pepper. Simmer until heated through. Drain pasta, then toss with the clam sauce. Serve hot."
+      },
+      {
+        "id": 4,
+        "title": "Chocolate Chip Pumpkin Bread",
+        "image": "https://www.allrecipes.com/thmb/d6pNQRolWCs_VDhud2-p8P553KU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/6732-chocolate-chip-pumpkin-bread-DDMFS-4x3-4cddf70ed57f4f37af6865ddb2b9b001.jpg",
+        "ingredients": "Sugar, Pumpkin Puree, Eggs, Vegetable Oil, Water, Flour, Cinnamon, Nutmeg, Baking Soda, Salt, Chocolate Chips, Walnuts",
+        "directions": "Preheat oven to 350°F. Grease and flour three 9x5-inch loaf pans. In a large bowl, beat together sugar, pumpkin, eggs, oil, and water. Mix in flour, cinnamon, nutmeg, baking soda, and salt until smooth. Fold in chocolate chips and walnuts. Divide batter evenly between pans. Bake for 1 hour or until a knife comes out clean. Cool in pans before serving."
+      },
+      {
+        "id": 5,
+        "title": "Mexican Chicken and Rice Bowl",
+        "image": "https://www.allrecipes.com/thmb/m18WuFk6QoPjZa3mEHxsNPS7TKM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/7244825-5f0b76749559461cb80e3af8d012fa85.jpg",
+        "ingredients": "Olive Oil, Chicken Breast, Chicken Broth, Canned Corn, Black Beans, Diced Tomatoes with Green Chiles, White Rice, Salt, Chili Powder, Garlic Powder, Mexican Cheese, Cilantro",
+        "directions": "Set Instant Pot to sauté and cook chicken in olive oil until lightly browned. Remove chicken and add broth, scraping the pot. Add corn, beans, tomatoes with juice, rice, salt, chili powder, and garlic powder. Place chicken on top. Seal and pressure cook on high for 7 minutes. Let pressure release naturally for 10 minutes, then quick release. Stir and serve in bowls topped with cheese and cilantro."
+      }
+    ]
+  }
+  
