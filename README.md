@@ -1,6 +1,6 @@
 Recipe Showcase
 
-This project is a simple recipe showcase app where users can view detailed recipes for their favorite dishes. The app dynamically loads recipe data from a local API (using json-server), displaying a list of recipes with images, ingredients, and directions. Users can expand each recipe to view more details, and they can easily copy the recipe information to their clipboard.
+This project is a simple recipe showcase app where users can view detailed recipes for my five favorite dishes. The app dynamically loads recipe data from a local API (using json-server), displaying a list of recipes with images, ingredients, and directions. Users can expand each recipe to view more details, and they can easily copy the recipe information to their clipboard.
 
 Features
 
